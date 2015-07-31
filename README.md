@@ -8,7 +8,7 @@ Add it to `Projectfile`
 
 ```crystal
 deps do
-  github "[your-github-name]/camesh"
+  github "dtan4/camesh"
 end
 ```
 
@@ -26,7 +26,7 @@ TODO: Write instructions for development
 
 ## Contributing
 
-1. Fork it ( https://github.com/[your-github-name]/camesh/fork )
+1. Fork it ( https://github.com/dtan4/camesh/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
@@ -34,4 +34,4 @@ TODO: Write instructions for development
 
 ## Contributors
 
-- [your-github-name](https://github.com/[your-github-name]) Daisuke Fujita - creator, maintainer
+- dtan4(https://github.com/dtan4) (Daisuke Fujita) - creator, maintainer
